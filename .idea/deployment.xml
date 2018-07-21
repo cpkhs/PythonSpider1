@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@114.116.89.70:22">
+    <serverData>
+      <paths name="AWSServer-52.198.68.183">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="HUAWEIServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/main" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@114.116.89.70:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/python3env/tmp/pycharm_project_951" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

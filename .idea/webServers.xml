@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="847e3f3b-839b-4921-a545-a72989033ba1" name="HUAWEIServer" url="http://114.116.89.70">
+        <fileTransfer host="114.116.89.70" port="22" rootFolder="/root/pythonSource" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d15f9283-1d4b-415a-9041-78d871344f44" name="AWSServer-52.198.68.183" url="http://18.182.244.66">
+        <fileTransfer host="18.182.244.66" port="22" privateKey="G:\新建文件夹\新建文件夹\LightsailDefaultPrivateKey-ap-northeast-1.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
